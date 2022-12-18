@@ -1,4 +1,8 @@
 # ManejoDatos-ProyectoFinal-
+## INTEGRANTES:
+- Contreras Miguel Jose Manuel 
+- Del Rosario Jacome Rodrigo 
+- Rodríguez Moreno Marcos Isaac
 ## (Instrucciones) :monocle_face:
 1. Cambiar la direccion donde se encuentra el Chromedriver
 2. Instalar Anaconda para poder utilizar  JupyterNotebook
